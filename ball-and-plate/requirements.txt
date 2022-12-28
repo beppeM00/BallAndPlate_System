@@ -1,0 +1,4 @@
+gpiozero==1.6.2
+imutils==0.5.4
+matplotlib==3.5.1
+simple_pid==1.0.1
